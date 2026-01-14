@@ -2,3 +2,5 @@
 README.md export-ignore
 composer.json export-ignore
 composer.lock export-ignore
+dev-workspace/ export-ignore
+.env.example export-ignore
